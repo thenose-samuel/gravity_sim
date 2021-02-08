@@ -1,3 +1,8 @@
+#Code used to generate the other scenes in the video
+#author: Samuel Khongthaw
+#date: 08/02/2021
+#**************************************************
+
 import math
 class Particle:
     def __init__(self,G,mass,momentum_x = 0,momentum_y = 0,x = 0,y = 0):
