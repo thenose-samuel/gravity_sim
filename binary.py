@@ -1,3 +1,7 @@
+#Code used to generate the other scenes in the video
+#author: Samuel Khongthaw
+#date: 08/02/2021
+#**************************************************
 import pygame,sys
 from particle import Particle
 from pygame.locals import*
